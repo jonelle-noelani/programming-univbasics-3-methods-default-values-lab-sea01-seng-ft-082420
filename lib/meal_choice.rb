@@ -8,3 +8,4 @@ def meal_choice (veg1, veg2, protein = 'tofu')
   menu = meal_choice
 end
 
+menu
